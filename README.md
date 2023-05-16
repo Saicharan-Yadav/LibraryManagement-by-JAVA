@@ -1,2 +1,2 @@
-# LibraryManagement-by-JAVA
+# LibraryManagement-Using-JAVA
 A basic Library Management System built  using OOPS concept ,Mysql DataaBase in Java.
